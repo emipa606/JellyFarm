@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Jelly Farm (Continued)</name>
+  	<packageId>Mlie.JellyFarm</packageId>
+	<author>Mlie</author>
+	<url>https://github.com/emipa606/JellyFarm</url>
+	<supportedVersions>
+		<li>1.0</li>
+		<li>1.1</li>
+	</supportedVersions>
+	<modDependencies />
+	<loadAfter />
+	<description>Update of Daniledmans mod for RimWorld 1.1
+https://steamcommunity.com/sharedfiles/filedetails/?id=1363721847
+
+Support-chat:
+https://discord.gg/SuhwVpM
+
+Non-steam version:
+https://github.com/emipa606/JellyFarm
+	
+--- Original Description ---
+The infestation event is, by now, one of the most dangerous events, but in reward of winning player gets only a pile of dead bugs and dirty rooms. Is it the worthy reward for such a challenge?
+I think no.
+Have you ever dreamed of being a jelly tycoon? Now you have the opportunity to become one.
+This mod allows you to get insect jelly from hives and glow pods. By destroying hives and deconstructing glow pods you can get their parts, which can be used to create jelly farms. Also some steel and components are needed for construction.
+Jelly farms produce insect jelly once in 7 days and require electricity to remain functional.
+Jelly farm is unlocked by hydroponics research.
+Hive pieces and glow pod parts can be sold to exotic goods trader.
+
+-Note: in order to get luminous cocoons - will have to wait until the bugs fall to sleep.
+
+The mod works on the old saves and doesn't require new game.
+
+
+Special thanks: Hrosts
+____________________________________________________
+
+В настоящий момент инцидент с жуками является одним из самых опасных, и в качестве награды за уничтожение жуков колония получает только
+гору мертвых жуков и множество грязи. Разве это достойная награда за столь сложного врага? Явно нет.
+А вы когда-нибудь мечтали стать желейным магнатом? Теперь у вас появится такая возможность.
+
+Этот мод позволяет получать желе с помощью ульев и светящихся коконов жуков. Разрушая ульи и разбирая светящиеся коконы, вы получаете
+их части, с помощью которых можно создать фермы желе - модифицированные ульи, состоящие из частей ульев жуков и из стали и компонентов, фермы раз в 7 дней производят желе насекомых.
+Ферма желе открывается вместе с исследованием гидропоники.
+Части ульев и части светящихся коконов можно продать торговцам экзотикой.
+
+-Примечание: чтобы получить светящиеся коконы - придется ждать, пока жуки уснут.
+
+Мод работает на старых сохранениях и не требует новой игры.
+
+Благодарности: Hrosts</description> 
+</ModMetaData>
